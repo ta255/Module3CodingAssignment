@@ -1,0 +1,97 @@
+body {
+    background-color: white;
+    font-size: 16px;
+    color: black;
+}
+
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.navbar-brand {
+    padding-top: 18px;
+}
+
+.navbar-brand h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 12px 12px;
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-bottom: 21px;
+    background-color: transparent;
+    background-image: none;
+    border: 2px solid transparent;
+    border-radius: 4px;
+}
+
+#nav-list {
+    margin-top: 15 6px;
+    border: 1px solid black ;
+}
+
+#nav-list a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    background-color: white;
+    border: 1px solid black ;
+}
+
+
+#nav-list a:hover {
+    background: gray;
+}
+
+#nav-list a span {
+    font-size: 1.8em; 
+}
+
+.icon-bar {
+    border: 2px solid white;
+} 
+
+#tobox {
+    padding: 5px;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-color: gray;
+    
+
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+    
+}
+
+
+
+
